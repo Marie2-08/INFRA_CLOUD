@@ -1,0 +1,2 @@
+﻿device_name;device_model;processor;physical_cpu_cores;maximum_cpu_frequency_mhz;total_ram_gib;storage_mount_point;storage_device;storage_file_system;storage_capacity_gib;primary_interface;mac_address;ipv4_address;ipv6_address;ipv6_link_local_address
+MSI;Pulse GL66 12UEK;12th Gen Intel(R) Core(TM) i5-12500H;12;3100.0;15.71;C:\;C:\;NTFS;452.91;Wi-Fi;f8:b5:4d:e6:d2:37;10.109.192.141;N/A;fe80::1884:c467:38f3:3420

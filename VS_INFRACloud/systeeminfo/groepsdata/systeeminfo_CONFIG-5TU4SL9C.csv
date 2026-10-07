@@ -1,0 +1,2 @@
+﻿computernaam;computermodel;serienummer;processor;fysieke_cpu_cores;max_cpu_frequentie_mhz;totaal_ram_gib;bestandssysteem;opslagcapaciteit_gib;netwerkinterface;mac_adres;ipv4_adres;ipv6_adres;ipv6_link_local_adres
+CONFIG-5TU4SL9C;82XM;PF55PGEQ;AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD;6;2301,0;13,84;NTFS;474,72;Wi-Fi;04:68:74:ec:66:79;10.109.192.93;;fe80::73c2:91bd:ab12:d8a9
